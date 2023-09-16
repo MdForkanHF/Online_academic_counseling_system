@@ -1,0 +1,52 @@
+
+-- Online Academic counselling system
+
+-- example of a test case scenario with the expected output:
+
+
+**Test Case: User Registration and Course Catalog**
+
+1. User Registration:
+   - Input:
+     - Name: John Doe
+     - Email: johndoe@example.com
+     - Academic Background: Computer Science
+
+   - Output:
+     ```
+     Registration successful!
+     ```
+
+2. User Login:
+   - Input:
+     - Email: johndoe@example.com
+
+   - Output:
+     ```
+     Login successful!
+     ```
+
+3. Display Academic Resources:
+   - Output:
+     ```
+     Academic resources:
+     - MATH
+     - DBS
+     - CLOUD
+     - MOBILE
+     ```
+
+4. Admin Functionality (not logged in as admin):
+   - Output:
+     ```
+     You do not have admin privileges.
+     ```
+
+5. Exit the Program:
+   - Output:
+     ```
+     Thank you for using the Online Academic Counseling System. Goodbye!
+     ```
+
+
+
