@@ -7,10 +7,10 @@ System Overview: This program is an Online Academic Counseling System designed t
 Key Features of the Scenario
 1. User Registration
 New users can register by providing:
-Name
-Email
-Academic background
-Data is stored in the User structure.
+- Name
+- Email
+- Academic background
+- Data is stored in the User structure.
 Example:
 A student named Alice registers with the email alice@example.com and academic background Computer Science.
 
