@@ -6,9 +6,6 @@ System Overview: This program is an Online Academic Counseling System designed t
 Scenario for the Code
 System Overview: This program is an Online Academic Counseling System designed to manage users, offer academic resources, and provide basic admin functionality. The program allows users to register, log in, view resources, and provides an admin panel for managing the system.
 
-Scenario for the Code
-System Overview: This program is an Online Academic Counseling System designed to manage users, offer academic resources, and provide basic admin functionality. The program allows users to register, log in, view resources, and provides an admin panel for managing the system.
-
 Key Features of the Scenario
 1. User Registration
 New users can register by providing:
